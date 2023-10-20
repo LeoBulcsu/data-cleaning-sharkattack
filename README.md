@@ -1,3 +1,4 @@
 # THE SHARK ATTACK ANALYSIS
 
-https://media.giphy.com/media/wwx6tYRikiPHHNn4MB/giphy.gif)https://media.giphy.com/media/wwx6tYRikiPHHNn4MB/giphy.gif
+
+![shark](https://github.com/LeoBulcsu/data-cleaning-sharkattack/assets/136447924/f7c7ca5f-02d8-4497-8fdb-7999bdc68972)
